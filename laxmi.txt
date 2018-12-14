@@ -1,0 +1,10 @@
+for (int i = 1; i <= 5; ++i) {
+
+   // codes inside the body of outer loop
+
+   for (int j = 1; j <=2; ++j) {
+      // codes inside the body of both outer and inner loop
+   }
+
+   // codes inside the body of outer loop
+}
